@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{203E294F-6A57-B963-05D6-83EB30201135}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Week-1/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Week-1/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Week-1/Scripts/Trap.cs" Line="12" Column="10" />
+      <File FileName="Assets/Week-1/Scripts/Key.cs" Line="10" Column="11" />
+      <File FileName="Assets/Week-1/Scripts/Door.cs" Line="14" Column="15" />
+      <File FileName="Assets/Week-1/Scripts/Coin.cs" Line="7" Column="30" />
+      <File FileName="Assets/Week-1/Scripts/PlayerHealth.cs" Line="24" Column="1" />
+      <File FileName="Assets/Week-1/Scripts/PlayerInventory.cs" Line="31" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="23a7bb73-7ced-46c1-925c-c48c5c27b864" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
